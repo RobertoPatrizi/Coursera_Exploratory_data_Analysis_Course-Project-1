@@ -13,7 +13,7 @@ The following descriptions of the 9 variables in the dataset are taken from the 
 ## Making Plotsless 
 Our overall goal here is simply to examine how household energy usage varies over a 2-day period in February, 2007. Your task is to reconstruct the following plots below, all of which were constructed using the base plotting system.
 
-For each plot you should
+## For each plot I made
 
 Construct the plot and save it to a PNG file with a width of 480 pixels and a height of 480 pixels.
 Name each of the plot files as plot1.png, plot2.png, etc.
